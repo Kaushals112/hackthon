@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" viewBox="0 0 1600 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1245_3734)">
+        <path
+            d="M1931 198.497C1720.1 114.164 1270.19 34.8691 830.847 99.0781C251.5 183.748 -60.3101 -42.8989 -282.08 -50.6579"
+            stroke="#66265F" stroke-width="2.5" vector-effect="non-scaling-stroke" />
+        <path
+            d="M1842 128.354C1625.05 61.096 1170.25 17.907 737.422 116.922C166.67 247.491 -162.21 46.413 -383.9 56.352"
+            stroke="#66265F" stroke-width="2.5" vector-effect="non-scaling-stroke" />
+    </g>
+    <defs>
+        <clipPath id="clip0_1245_3734">
+            <rect width="1600" height="170" fill="white" transform="translate(1600 170) rotate(-180)" />
+        </clipPath>
+    </defs>
+</svg>
